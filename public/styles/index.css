@@ -1,0 +1,22 @@
+html {
+    box-sizing: border-box;
+  }
+  
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+  
+  body, html {
+    margin:  0;
+    padding:  0;
+    font-size:  16px;
+    line-height:  1.5;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    max-width:  1200px;
+    margin:  0 auto;
+  }
+  
